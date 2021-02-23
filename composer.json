@@ -1,5 +1,5 @@
 {
-  "name": "contributte/logging",
+  "name": "polyweb-cz/logging",
   "description": "Plug-in support logging for Tracy / Nette Framework",
   "keywords": ["nette", "logging", "tracy", "monolog", "plugins"],
   "type": "library",
@@ -12,7 +12,7 @@
     }
   ],
   "require": {
-    "php": "^7.2",
+    "php": ">=7.2 <8.1",
     "tracy/tracy": "~2.5.5|~2.6.2|~2.7.0"
   },
   "require-dev": {
